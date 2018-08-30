@@ -27,5 +27,10 @@ public class Usuario {
 	public boolean isModerador() {
 		return moderador;
 	}
+	
+	@Override
+	public String toString() {
+		return "Usuario " + nome;
+	}
 
 }

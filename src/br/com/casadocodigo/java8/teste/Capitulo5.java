@@ -1,7 +1,6 @@
 package br.com.casadocodigo.java8.teste;
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.Comparator;
 
 import static java.util.Comparator.comparing;
